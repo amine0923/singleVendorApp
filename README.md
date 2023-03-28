@@ -13,11 +13,14 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 
-<img width="1604" alt="screen shot for app" src="https://raw.githubusercontent.com/amine0923/singleVendorApp/main/Screen%20Shots/screenshot-2023-03-28_20.01.19.389.png">
-Home Screen
 
 
-| First Header  | Second Header |
+
+|   |  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| <img width="1604" alt="screen shot for app" src="https://raw.githubusercontent.com/amine0923/singleVendorApp/main/Screen%20Shots/screenshot-2023-03-28_20.01.19.389.png">
+Home Screen  | <img width="1604" alt="screen shot for app" src="https://raw.githubusercontent.com/amine0923/singleVendorApp/main/Screen%20Shots/screenshot-2023-03-28_20.01.19.389.png">
+Home Screen  |
+| <img width="1604" alt="screen shot for app" src="https://raw.githubusercontent.com/amine0923/singleVendorApp/main/Screen%20Shots/screenshot-2023-03-28_20.01.19.389.png">
+Home Screen  | <img width="1604" alt="screen shot for app" src="https://raw.githubusercontent.com/amine0923/singleVendorApp/main/Screen%20Shots/screenshot-2023-03-28_20.01.19.389.png">
+Home Screen  |
